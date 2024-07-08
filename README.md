@@ -10,7 +10,7 @@ Javascript , Typescript , Python , CSS , HTML , NodeJS
 
 # Education:
 
-Matric in science (Biology)  
-Intermediate (Pre-medical)
-GIAIC 
+1)Matric in science (Biology)  
+2)Intermediate (Pre-medical)
+3)GIAIC 
 
